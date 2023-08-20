@@ -1,6 +1,6 @@
 # Dog-Cat-Classifier
 
-## Link the Project App : https://dogcatpreds.streamlit.app/
+## Link to the Project App : https://dogcatpreds.streamlit.app/
 
 ### main.py contains the python code to the website I created using streamlit for easy application of the ML Model
 ### ModelPrep.ipynb is the jupyter notebook I used to create the model
